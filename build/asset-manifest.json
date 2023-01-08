@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22cc392c.css",
+    "main.js": "/static/js/main.8d0a8b42.js",
+    "static/media/photo-grid 2.png": "/static/media/photo-grid 2.294d59b66b94e0e456cf.png",
+    "static/media/photo-grid.png": "/static/media/photo-grid.294d59b66b94e0e456cf.png",
+    "static/media/mountain-bike.png": "/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
+    "static/media/wedding-photography.png": "/static/media/wedding-photography.62dfa0af6d4f23912427.png",
+    "static/media/katie-zaferes.png": "/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
+    "static/media/airbnb-logo 2.png": "/static/media/airbnb-logo 2.e4424517383d14a03a24.png",
+    "static/media/airbnb-logo.png": "/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "index.html": "/index.html",
+    "main.22cc392c.css.map": "/static/css/main.22cc392c.css.map",
+    "main.8d0a8b42.js.map": "/static/js/main.8d0a8b42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cc392c.css",
+    "static/js/main.8d0a8b42.js"
+  ]
+}
