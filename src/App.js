@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Card from "./components/Card"
 import data from "./data"
+import Footer from "./components/Footer"
 
 /*
 Challenge: Build the Navbar component.
@@ -30,7 +31,7 @@ export default function App() {
         <section className="cards-list">
             {Cards}
         </section>
-
+        <Footer />
         </>
     )
 }
